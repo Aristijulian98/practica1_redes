@@ -1,0 +1,7 @@
+../source/api_practica.c:21:13:InitCrc32	32	static
+../source/api_practica.c:37:7:verif_crc	552	static
+../source/api_practica.c:89:9:practica_dec	376	static
+../source/api_practica.c:106:9:practica_enc	248	static
+../source/api_practica.c:123:9:practica_crear_crc	1184	static
+../source/api_practica.c:153:7:practica_read	440	static
+../source/api_practica.c:205:7:practica_write	576	static
